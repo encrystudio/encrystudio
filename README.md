@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 young dude who enjoys working with computers.<br>makes video games, minecraft mods, python packages, rust stuff, cross-platform apps and more
 
 ### ✍️ Random Dev Quote
